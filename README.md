@@ -1,7 +1,7 @@
 # ReadMeGenerator 
 ![Github license](https://img.shields.io/badge/license-ISC-blue.svg)
 ## Description
-This is a ReadMe file generator. Prompts questions to create a ReadMe file.
+I've developed a command-line application using Node.js to simplify the process of creating professional README files for projects. The app guides users through a series of straightforward questions, automatically generating a README.md file based on their responses.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,8 +14,9 @@ This is a ReadMe file generator. Prompts questions to create a ReadMe file.
 Clone the repo. Install dependencies. Node index to run the code.
 
 ## How to Use This Application:
-None atm
+Mock Video
 
+https://drive.google.com/file/d/1JWloest15-XW4f8QL-UJaQWEdA4ef3L6/view
 ## Testing
 Running the code & answering the prompts.
 
